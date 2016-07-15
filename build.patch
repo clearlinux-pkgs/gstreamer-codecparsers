@@ -1,0 +1,10 @@
+--- gstreamer-codecparsers-master/gst-libs/gst/codecparsers/Makefile.am~	2015-11-06 10:15:02.000000000 +0000
++++ gstreamer-codecparsers-master/gst-libs/gst/codecparsers/Makefile.am	2016-07-15 17:37:34.840082252 +0000
+@@ -15,7 +15,6 @@
+ 
+ libgstcodecparsers_@GST_API_VERSION@include_HEADERS = \
+ 	gstmpegvideoparser.h gsth264parser.h gstvc1parser.h gstmpeg4parser.h \
+-	gsth265parser.h \
+ 	gsth265parser.h gstvp8parser.h gstvp8rangedecoder.h \
+ 	gstjpegparser.h \
+ 	gstmpegvideometa.h \
