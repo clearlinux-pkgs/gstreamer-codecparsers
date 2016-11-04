@@ -4,7 +4,7 @@
 #
 Name     : gstreamer-codecparsers
 Version  : master
-Release  : 1
+Release  : 2
 URL      : https://github.com/01org/gstreamer-codecparsers/archive/master.tar.gz
 Source0  : https://github.com/01org/gstreamer-codecparsers/archive/master.tar.gz
 Summary  : No detailed summary available
